@@ -1,0 +1,64 @@
+"Environment and countryside > Waste management > Local authority municipal waste > Annual reuse/recycling/composting rates by local authority"
+"Annual reuse/recycling/composting rates by local authority"
+
+Filters:
+Year: 2014-15
+
+"","","","Percentage of Waste Reused/Recycled/Composted (Statutory Target) (4)"
+"Wales ","","",56.246175
+"Wales ","North Wales ","",57.215526
+"","North Wales ","Isle of Anglesey ",55.152373
+"","","Gwynedd ",55.139627
+"","","Conwy ",59.063937
+"","","Denbighshire ",65.869896
+"","","Flintshire ",54.999586
+"","","Wrexham ",56.449796
+"","Mid & South West Wales ","",58.428814
+"","Mid & South West Wales ","Powys ",52.069665
+"","","Ceredigion ",61.555819
+"","","Pembrokeshire ",65.38669
+"","","Carmarthenshire ",59.610109
+"","","Swansea ",56.688792
+"","","Neath Port Talbot ",58.097257
+"","South East Wales ","",54.441742
+"","South East Wales ","Bridgend ",57.062665
+"","","Vale of Glamorgan ",55.998072
+"","","Cardiff ",53.379717
+"","","Rhondda Cynon Taf ",53.816152
+"","","Merthyr Tydfil ",51.201742
+"","","Caerphilly ",54.577264
+"","","Blaenau Gwent ",50.307782
+"","","Torfaen ",52.690467
+"","","Monmouthshire ",63.207568
+"","","Newport ",52.030314
+"","Rural (1)","Rural (1)",58.911245
+"","Urban (2)","Urban (2)",54.654659
+"","Valley (3)","Valley (3)",54.604894
+
+
+
+Footnotes:
+"1","Rural authorities: Carmarthenshire, Ceredigion, Conwy, Denbighshire, Gwynedd, Isle of Anglesey, Monmouthshire, Pembrokeshire, Powys, Vale of Glamorgan"
+"2","Urban authorities: Cardiff, Flintshire, Newport, Swansea, Wrexham"
+"3","Valleys authorities: Blaenau Gwent, Bridgend, Caerphilly, Merthyr Tydfil, Neath Port Talbot, Rhondda Cynon Taff, Torfaen"
+"4","Total waste reused/recycled/composted (as defined by the Statutory Local Authority Recovery Target, LART), as a percentage of total municipal waste collected/generated"
+Metadata:
+"Title","Local Authority Municipal Waste Management, 2012-13 onwards"
+"Last update","Last update: October 2024"
+"Next update","October 2025 (provisional)"
+"Publishing organisation","Welsh Government"
+"Source 1","WasteDataFlow, Natural Resources Wales"
+"Contact email","stats.environment@gov.wales"
+"Designation","National Statistics"
+"Lowest level of geographical disaggregation","Local authorities"
+"Geographical coverage","Wales"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"Keywords","Local Authority Municipal Waste"
+"General description","Data on municipal waste was collected using an online reporting system for waste data called 'WasteDataFlow'. In Wales, this is managed by Natural Resources Wales. 
+
+There is an apparent discrepancy between the total waste figures given for the 'Waste managed (tonnes)' table and other tables. This is because there is a slight mismatch between the amount collected and the amount treated. This can be a matter of timing if, for example, authorities stockpile waste for later treatment. There may also be some inconsistencies in the measurement since the waste is weighed when collected and again when it is sent for treatment."
+"Data collection and calculation","Natural Resources Wales validate all local authority returns and require that the difference between the amount collected and the amount sent for treatment must not differ by more than 10 per cent in any quarter."
+"Frequency of publication","Annual"
+"Data reference periods","2012-13 onwards"
+"Weblinks","https://www.gov.wales/local-authority-municipal-waste-management"

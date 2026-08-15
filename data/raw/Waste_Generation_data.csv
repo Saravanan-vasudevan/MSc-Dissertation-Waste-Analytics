@@ -1,0 +1,56 @@
+"Environment and countryside > Waste management > Local authority municipal waste > Annual waste generated (tonnes) by source"
+"Annual waste generated (tonnes) by source"
+
+Filters:
+Area: Wales
+Material: All materials
+
+"","","","2012-13 ","2013-14 ","2014-15 ","2015-16 ","2016-17 ","2017-18 ","2018-19 ","2019-20 ","2020-21 ","2021-22 ","2022-23 ","2023-24 "
+"Total Municipal Waste Collected/Generated ","","",1553511.534,1557229.27,1543357.303,1592177.668,1589794.988,1549634.868,1542422.01,1512100.846,1488253.305,1508369.913,1399891.387,1408509.041
+"Total Municipal Waste Collected/Generated ","Municipal Waste Reused/Recycled ","",517446.939,544329.931,563342.369,602674.524,617607.888,611442.178,620483.455,602855.58,558106.566,581177.019,531623.501,533157.032
+"","Municipal Waste Reused/Recycled ","Household Waste Reused/Recycled (1)",419894,431204.838,446774.565,473164.387,477492.845,473108.489,475177.932,465367.959,454529.26,463424.75,428038.848,425336.975
+"","","Non-Household Waste Reused/Recycled (1)",97552.939,113125.093,116567.804,129510.137,140115.043,138333.689,145305.523,137487.621,103577.306,117752.269,103584.653,107820.057
+"","Municipal Waste Composted ","",282377.536,289987.514,290114.404,289553.654,296351.691,292662.37,291236.093,301109.358,302078.553,300503.481,275600.198,287125.812
+"","Municipal Waste Composted ","Household Waste Composted ",264264.116,276510.254,276495.449,277124.014,284507.051,281277.06,280044.406,287716.362,294726.908,291077.895,265941.616,275195.245
+"","","Non-Household Waste Composted ",18113.42,13477.26,13618.955,12429.64,11844.64,11385.31,11191.687,13392.996,7351.645,9425.586,9658.582,11930.567
+"","Residual Household Waste ","",666748.159,641548.217,600810.05,615970.36,602968.001,575175.21,565326.605,545043.527,576413.792,563763.296,537498.598,531838.669
+"","Residual Household Waste ","Regular Kerbside ",498655.93,452116.961,433075.91,448333.5,427188.86,412959.12,403887.824,381097.692,440015.409,410542.704,390159.861,374385.277
+"","","Bulky Collections ",6791.22,6355.41,5257.1,4800.73,8255.44,6884.3,6479.862,7829.535,7766.113,9160.923,9182.376,10973.339
+"","","Civic Amenity Sites ",96437.463,98619.994,96922.53,98878.85,94972.051,88039.89,84354.32,80415.951,51908.292,66537.809,61215.963,59727.004
+"","","Street Cleaning ",50527.5,45232.32,44167.08,46418.96,51618.55,48832.81,48017.176,53125.681,53922.573,54459.245,52958.825,57199.096
+"","","Asbestos ",313.37,426.425,370.94,269.82,345.3,283.16,285.2,233.48,179.08,209.3,131.52,126.38
+"","","Gully ",5601.18,9051.9,8687.65,10824.12,15534.48,16320.52,18448.07,20041.34,20027.32,19757.82,19533.47,24705.34
+"","","Healthcare ",940.066,909.827,1090.88,517.74,107.57,37.57,63.393,85.288,73.425,53.235,1118.163,1193.503
+"","","Other ",7481.43,28835.38,11237.96,5926.64,4945.75,1817.84,3790.76,2214.56,2521.58,3042.26,3198.42,3528.73
+"","Residual Non-Household Waste ","",86938.9,81363.608,89090.48,83979.13,72867.408,70355.11,65375.857,63092.381,51654.394,62926.117,55169.09,56387.528
+"","Residual Non-Household Waste ","Civic Amenity Sites ",3244.27,1598.73,2640.3,3805.96,3094.16,2758.49,2120.89,2231.32,1635.51,922.66,964.53,3706.77
+"","","Commercial and Industrial ",70269.12,67802.878,68859.99,65005.21,62890.508,60583.66,54551.624,49750.586,42032.363,50756.229,47115.194,46041.868
+"","","Construction and Demolition ",1536.61,237.4,240.29,6958.52,0,0,60.28,49.52,144.72,123.38,87.44,144.26
+"","","Grounds ",998.3,746.55,564.5,177,944.43,558.51,110.8,351.38,820.79,1541,969.24,1259.15
+"","","Highways ",3861.98,2246.19,1051.74,993.84,1022.64,520.95,2810.76,908.26,1996.56,3728.02,129.57,53.86
+"","","Beaches ",177.04,111.1,144.26,153.87,113.91,86.96,125.89,122.55,69.34,69.21,93.13,186.6
+"","","Fly-Tipping ",3295.36,2452.57,2031.55,1839.71,1914.81,977.28,1410.023,1646.155,1231.101,1234.218,1182.476,977.55
+"","","Other ",3556.22,6168.19,13557.85,5045.02,2886.95,4869.26,4185.59,8032.61,3724.01,4551.4,4627.51,4017.47
+
+
+
+Footnotes:
+"1","Rubble and plasterboard are counted as non-household waste in recycling totals, even if they were collected from household sources."
+Metadata:
+"General description","Household waste includes regular household collections, civic amenity site waste, waste collected for recycling/composting and waste from special collections, such as collections of bulky household waste. Where local authorities collect non-household waste (i.e. from a business, school etc.) in the same collection round as household waste, it may not be possible for them to provide an accurate split between the household and non-household waste collected. Non-household waste prepared for reuse/recycled/composted includes local authority collected materials from commercial sources. This includes waste collected by private and voluntary organisations. Local authority municipal waste includes waste collected from household and non-household sources, but excludes abandoned vehicles."
+"Data collection and calculation","Data on municipal waste was collected using an online reporting system for waste data called 'WasteDataFlow'. In Wales, this is managed by Natural Resources Wales. From 2009-10, an expanded breakdown of materials by type was collected by WDF and this is shown here. There may be some discrepancies in the tables, where the components do not sum up to the totals. These discrepancies are due to rounding."
+"Frequency of publication","Annual"
+"Data reference periods","2012-13 onwards"
+"Title","Local Authority Municipal Waste Management Materials data, 2012-13 onwards"
+"Last update","October 2024"
+"Next update","October 2025 (provisional)"
+"Publishing organisation","Welsh Government"
+"Source 1","WasteDataFlow, Natural Resources Wales"
+"Contact email","stats.environment@gov.wales"
+"Designation","National Statistics"
+"Lowest level of geographical disaggregation","Local authorities"
+"Geographical coverage","Wales"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"Weblinks","https://www.gov.wales/local-authority-municipal-waste-management"
+"Keywords","Local Authority Municipal Waste"

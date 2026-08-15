@@ -1,0 +1,60 @@
+"Environment and countryside > Waste management > Local authority municipal waste > Annual residual household waste produced per person (kilograms) by local authority"
+"Annual residual household waste produced per person (kilograms) by local authority"
+
+Filters:
+Measure: Annual residual household waste produced per person by local authority
+
+"","","","2012-13 ","2013-14 ","2014-15 ","2015-16 ","2016-17 ","2017-18 ","2018-19 ","2019-20 ","2020-21 ","2021-22 ","2022-23 ","2023-24 "
+"Wales ","","",217,209,195,200,196,187,183,177,186,182,172,168
+"Wales ","North Wales ","",222,223,218,222,217,210,203,199,207,210,202,206
+"","North Wales ","Isle of Anglesey ",238,228,213,183,206,199,199,194,197,192,185,184
+"","","Gwynedd ",266,268,290,294,266,240,239,236,242,251,231,242
+"","","Conwy ",184,153,148,155,160,172,165,158,172,189,167,165
+"","","Denbighshire ",205,215,216,222,213,212,192,188,209,198,199,207
+"","","Flintshire ",252,248,227,219,223,209,218,220,215,226,221,228
+"","","Wrexham ",219,239,232,250,259,254,247,244,244,245,232,239
+"","Mid and South West Wales ","",210,203,188,191,184,178,181,163,166,174,163,159
+"","Mid and South West Wales ","Powys ",281,223,160,198,195,192,191,189,204,196,179,154
+"","","Ceredigion ",179,189,203,225,273,243,232,214,173,211,167,184
+"","","Pembrokeshire ",247,212,198,165,144,134,145,142,153,143,148,152
+"","","Carmarthenshire ",147,144,145,148,154,165,176,158,156,155,144,120
+"","","Swansea ",221,217,211,204,184,170,161,153,161,163,162,156
+"","","Neath Port Talbot ",212,220,208,215,211,207,210,173,165,160,159,134
+"","South Wales ","",219,206,189,196,193,181,176,174,187,173,163,156
+"","South Wales ","Bridgend ",188,210,223,217,217,141,127,129,136,136,133,135
+"","","Vale of Glamorgan ",211,214,177,191,209,200,158,145,156,151,150,145
+"","","Cardiff ",223,209,191,185,173,162,162,151,182,144,135,130
+"","","Rhondda Cynon Taf ",204,193,156,165,149,134,134,140,154,160,150,145
+"","","Merthyr Tydfil ",181,150,155,171,174,177,180,155,134,133,120,110
+"","","Caerphilly ",161,154,166,180,159,158,166,243,257,251,231,243
+"","","Blaenau Gwent ",233,235,232,242,250,247,203,187,206,201,190,195
+"","","Torfaen ",241,237,222,210,214,204,214,205,229,195,189,198
+"","","Monmouthshire ",282,264,224,242,215,220,219,183,211,207,198,202
+"","","Newport ",216,238,257,257,256,249,244,187,166,205,192,190
+"","Rural (1)","",207,200,196,196,197,191,187,172,169,177,167,163
+"","Urban (2)","",214,212,194,199,190,182,178,169,185,171,164,159
+"","Valley (3)","",233,216,196,208,201,187,184,191,207,199,187,185
+
+
+
+Footnotes:
+"1","Rural authorities: Carmarthenshire, Ceredigion, Conwy, Denbighshire, Gwynedd, Isle of Anglesey, Monmouthshire, Pembrokeshire, Powys, Vale of Glamorgan"
+"2","Urban authorities: Cardiff, Flintshire, Newport, Swansea, Wrexham"
+"3","Valleys authorities: Blaenau Gwent, Bridgend, Caerphilly, Merthyr Tydfil, Neath Port Talbot, Rhondda Cynon Taff, Torfaen"
+"Year","Residual household waste per dwelling figures have been revised for 2012-2018 following change to dwelling stock estimate methodology September 2019."
+Metadata:
+"Title","Local Authority Residual Waste, 2012-13 onwards"
+"Last update","October 2024"
+"Next update","October 2025 (provisional)"
+"Publishing organisation","Welsh Government"
+"Source 1","WasteDataFlow, Natural Resources Wales"
+"Contact email","stats.environment@gov.wales"
+"Designation","National Statistics"
+"Geographical coverage","Wales"
+"Languages covered","English and Welsh"
+"Data licensing","You may use and re-use this data free of charge in any format or medium, under the terms of the Open Government License - see http://www.nationalarchives.gov.uk/doc/open-government-licence"
+"General description","Residual household waste' is waste generated that is not included in separate recycling or composting collection rounds. That is, household waste that is not prepared for reuse, recycling or composting."
+"Data collection and calculation","2012-13 onwards"
+"Frequency of publication","Annual"
+"Weblinks","https://www.gov.wales/local-authority-municipal-waste-management"
+"Keywords","Local Authority Municipal Waste"
