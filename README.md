@@ -26,7 +26,7 @@ You need Python 3.9+ and about two minutes.
 **Option A — Make (recommended):**
 
 ```bash
-git clone https://github.com/<your-username>/merthyr-waste-analytics.git
+git clone https://github.com/Saravanan-vasudevan/merthyr-waste-analytics.git
 cd merthyr-waste-analytics
 make setup   # creates .venv, installs deps
 make run     # starts Streamlit on localhost:8501
@@ -35,7 +35,7 @@ make run     # starts Streamlit on localhost:8501
 **Option B — Manual:**
 
 ```bash
-git clone https://github.com/<your-username>/merthyr-waste-analytics.git
+git clone https://github.com/Saravanan-vasudevan/merthyr-waste-analytics.git
 cd merthyr-waste-analytics
 python3 -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
